@@ -1,2 +1,0 @@
-# ysn
-archive of ysn
